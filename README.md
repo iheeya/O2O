@@ -6,6 +6,11 @@
 
 ## 👋 프로젝트 소개
 
+## ⚒️ 사용 기술 스택 및 협업 도구
 
-## <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+## ✨ git 브랜치 전략
+## ✨ 주요 기술
+## ✨ 주요 기능 및 화면
+## ✨ ERD
+
 
