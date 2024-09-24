@@ -36,9 +36,9 @@
   
 
   <p><b>IoT</b></p>
-  <img src="https://img.shields.io/badge/nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  ![image](https://github.com/user-attachments/assets/743d663a-294a-4253-9386-c22a0f411957)
-![image](https://github.com/user-attachments/assets/cb9def7f-2f85-497b-af0d-1b95107d6a67)
+  <img src="https://img.shields.io/badge/nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white">   
+  ![image](https://github.com/user-attachments/assets/743d663a-294a-4253-9386-c22a0f411957)   
+![image](https://github.com/user-attachments/assets/cb9def7f-2f85-497b-af0d-1b95107d6a67)   
 
   <p><b>Infra & CI/CD</b></p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
