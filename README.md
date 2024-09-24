@@ -58,6 +58,10 @@
 - 브랜치와 이슈를 함께 생성해 서로의 작업 과정을 관리했습니다.
   
 ## ✨ 주요 기능 및 화면
+### 📱 키오스크
+### 🖥️ 웹 페이지
+
+
 ## ✨ ERD
 ![o2oERD](https://github.com/user-attachments/assets/f7166af0-56bc-45d3-8bda-72041945826f)
 
