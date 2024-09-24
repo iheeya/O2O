@@ -79,7 +79,10 @@
         <hr>
         <b>대여</b>
       </td>
-      <td align="center" width="50%"> 
+      
+    </tr>
+    <tr>
+   <td align="center" width="50%"> 
    <img src="https://github.com/user-attachments/assets/bebf5a0d-94a3-45a4-a62a-68af6382bccf"
         <br>
         <hr>
