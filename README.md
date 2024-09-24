@@ -66,16 +66,17 @@
   <h3><u>키오스크</u></h3>
   <table border="1" cellpadding="10" cellspacing="0">
     <tr>
-      <td align="center" width="50%">
-       ![메인페이지](https://github.com/user-attachments/assets/a9514e17-570f-460f-958c-473a5fc6dd91)
-
-        style="width: 100%; height: 200px; object-fit: cover;"
-        /><br>
+      <td align="center" width="50%"> 
+   <img src="https://github.com/user-attachments/assets/a9514e17-570f-460f-958c-473a5fc6dd91"
+        <br>
         <hr>
         <b>사원증 인식</b>
       </td>
       <td align="center" width="50%">
-       ![대여](https://github.com/user-attachments/assets/08190a62-934b-4be6-92dd-14d78e34c7ba)
+              <img src="https://github.com/user-attachments/assets/08190a62-934b-4be6-92dd-14d78e34c7ba"
+        style="width: 100%; height: 200px; object-fit: cover;"
+        />
+     
 <br>
         <hr>
         <b>대여</b>
