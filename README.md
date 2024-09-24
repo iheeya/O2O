@@ -59,7 +59,8 @@
   
 ## ✨ 주요 기능 및 화면
 ## ✨ ERD
-![ERD](https://github.com/your-attachments/assets/42bcc0b8275c9e2c5855b08bb86e88bd/ERD)
+![o2oERD](https://github.com/user-attachments/assets/f7166af0-56bc-45d3-8bda-72041945826f)
+
 
 
 
