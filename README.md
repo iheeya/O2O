@@ -73,9 +73,7 @@
         <b>사원증 인식</b>
       </td>
       <td align="center" width="50%">
-              <img src="https://github.com/user-attachments/assets/08190a62-934b-4be6-92dd-14d78e34c7ba"
-        style="width: 100%; height: 200px; object-fit: cover;"
-        />
+              <img src="https://github.com/user-attachments/assets/08190a62-934b-4be6-92dd-14d78e34c7ba"/>
      
 <br>
         <hr>
