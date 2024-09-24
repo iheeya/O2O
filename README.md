@@ -71,10 +71,9 @@
         <hr>
         <b>사원증 인식</b>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="50%" colspan="2">
               <img src="https://github.com/user-attachments/assets/08190a62-934b-4be6-92dd-14d78e34c7ba"/>
-     
-<br>
+        <br>
         <hr>
         <b>대여</b>
       </td>
@@ -91,9 +90,10 @@
   </table>
 </div>
 2. 물품 반납
-    - OCR을 이용해 사원증을 인식해 로그인   
-    - 사원이 대여한 내역 중 반납하고자 하는 내역 클릭   
-    - 카메라를 통해 반납하고자 하는 물건과 개수 인식   
+    - OCR을 이용해 사원증을 인식해 로그인     
+    - 사원이 대여한 내역 중 반납하고자 하는 내역 클릭    
+    - 카메라를 통해 반납하고자 하는 물건과 개수 인식     
+    
     <div align="center">
   <table border="1" cellpadding="10" cellspacing="0">
     <tr>
