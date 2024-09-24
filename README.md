@@ -63,11 +63,10 @@
    - OCR을 이용해 사원증을 인식해 로그인   
    - 물건을 선택하면 해당 물건이 있는 사물함의 문을 자동으로 열리도록 설정   
     <div align="center">
-  <h3><u>키오스크</u></h3>
   <table border="1" cellpadding="10" cellspacing="0">
     <tr>
       <td align="center" width="50%"> 
-   <img src="https://github.com/user-attachments/assets/a9514e17-570f-460f-958c-473a5fc6dd91"
+   <img src="https://github.com/user-attachments/assets/a9514e17-570f-460f-958c-473a5fc6dd91"/>
         <br>
         <hr>
         <b>사원증 인식</b>
@@ -83,10 +82,10 @@
     </tr>
     <tr>
    <td align="center" width="50%"> 
-   <img src="https://github.com/user-attachments/assets/bebf5a0d-94a3-45a4-a62a-68af6382bccf"
+   <img src="https://github.com/user-attachments/assets/bebf5a0d-94a3-45a4-a62a-68af6382bccf"/>
         <br>
         <hr>
-        <b>사물함 표시 + 완료 페이</b>
+        <b>사물함 표시 + 완료 페이지</b>
       </td>
     </tr>
   </table>
