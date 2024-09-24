@@ -32,15 +32,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-
-  
+    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 
   <p><b>IoT</b></p>
-  <img src="https://img.shields.io/badge/nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white">   
-  ![AI](https://github.com/user-attachments/assets/a1b6c14a-e2c3-4c40-a10d-4272d6c7d822)
-![IoT](https://github.com/user-attachments/assets/50db359c-d282-4858-9797-6101ac1231ba)
-
-   
+  <img src="https://img.shields.io/badge/nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white">      
 
   <p><b>Infra & CI/CD</b></p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -49,18 +44,22 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 
-
   <p><b>Tool</b></p>
     <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
      <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
       <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+              <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
  
   
 </div>
 
-## ✨ git 브랜치 전략
-## ✨ 주요 기술
+## ✨ git 컨벤션
+- git flow 전략을 사용해 브랜치를 관리했습니다.
+- 브랜치와 이슈를 함께 생성해 서로의 작업 과정을 관리했습니다.
+  
 ## ✨ 주요 기능 및 화면
 ## ✨ ERD
+![ERD](https://github.com/your-attachments/assets/42bcc0b8275c9e2c5855b08bb86e88bd/ERD)
+
 
 
