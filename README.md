@@ -60,8 +60,8 @@
 ## ✨ 주요 기능 및 화면
 ### 📱 키오스크
 1. 물품 대여
-   - OCR을 이용해 사원증을 인식해 로그인
-   - 물건을 선택하면 해당 물건이 있는 사물함의 문을 자동으로 열리도록 설정
+   - OCR을 이용해 사원증을 인식해 로그인   
+   - 물건을 선택하면 해당 물건이 있는 사물함의 문을 자동으로 열리도록 설정   
     <div align="center">
   <h3><u>키오스크</u></h3>
   <table border="1" cellpadding="10" cellspacing="0">
@@ -79,14 +79,33 @@
         <hr>
         <b>대여</b>
       </td>
+      <td align="center" width="50%"> 
+   <img src="https://github.com/user-attachments/assets/bebf5a0d-94a3-45a4-a62a-68af6382bccf"
+        <br>
+        <hr>
+        <b>사물함 표시 + 완료 페이</b>
+      </td>
     </tr>
   </table>
 </div>
 2. 물품 반납
-    - OCR을 이용해 사원증을 인식해 로그인
-    - 사원이 대여한 내역 중 반납하고자 하는 내역 클릭
-    - 카메라를 통해 반납하고자 하는 물건과 개수 인식
-3.  물품 이상 신고와 등록 또한 물품 대여와 같은 프로세스로 동작. 다만, 카메라를 통한 물건 인식은 제외    
+    - OCR을 이용해 사원증을 인식해 로그인   
+    - 사원이 대여한 내역 중 반납하고자 하는 내역 클릭   
+    - 카메라를 통해 반납하고자 하는 물건과 개수 인식   
+    <div align="center">
+  <table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github.com/user-attachments/assets/cd2bd841-2784-487b-a87d-584196c62e58"
+        /><br>
+        <hr>
+        <b>반납</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+3.  물품 이상 신고와 등록 또한 물품 대여와 같은 프로세스로 동작. 다만, 카메라를 통한 물건 인식은 제외       
 ### 🖥️ 웹 페이지
 
 
