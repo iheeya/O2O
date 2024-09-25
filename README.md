@@ -60,14 +60,20 @@
 ## ✨ 주요 기능 및 화면
 ### 📱 키오스크
 1. 물품 대여
-   - OCR을 이용해 사원증을 인식해 로그인   
-   - 물건을 선택하면 해당 물건이 있는 사물함의 문을 자동으로 열리도록 설정   
+   - OCR을 이용해 사원증을 인식해 로그인
+     ![메인페이지](https://github.com/user-attachments/assets/73def4f4-43e4-4776-9686-f16ee14a82b4)
+   - 물건을 선택하면 해당 물건이 있는 사물함의 문을 자동으로 열리도록 설정
+     ![대여](https://github.com/user-attachments/assets/3a87b9ef-7b5d-4139-97dd-72e47608c40c)
+     ![대여 완료](https://github.com/user-attachments/assets/7c078612-6b4d-44f5-ad44-b9658a333b98)
+
+
 
 2. 물품 반납   
     - OCR을 이용해 사원증을 인식해 로그인     
     - 사원이 대여한 내역 중 반납하고자 하는 내역 클릭    
     - 카메라를 통해 반납하고자 하는 물건과 개수 인식     
-    
+    ![반납](https://github.com/user-attachments/assets/8ad8cc7b-a16a-464b-ba26-41155b4f4e15)
+
 
 
 3.  물품 이상 신고와 등록 또한 물품 대여와 같은 프로세스로 동작. 다만, 카메라를 통한 물건 인식은 제외       
