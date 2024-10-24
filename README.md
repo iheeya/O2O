@@ -1,5 +1,3 @@
-# README.md
-
 # **🗃️** 간단한 재고 관리/비품 대여 시스템 O2O
 ![o2o-logo](./image/o2o-logo.png)
 ## **👋** 서비스 개요
